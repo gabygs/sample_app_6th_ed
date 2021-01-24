@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial sample application
+# uby on Rails Tutorial sample application
 
 ## Reference implementation
 
